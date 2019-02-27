@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Sistema_TechPos
 {
-    public partial class Form1 : Form
+    public partial class ViewLogin : Form
     {
-        public Form1()
+        public ViewLogin()
         {
             InitializeComponent();
         }

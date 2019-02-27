@@ -1,6 +1,6 @@
 ﻿namespace Sistema_TechPos
 {
-    partial class Form1
+    partial class ViewLogin
     {
         /// <summary>
         /// Required designer variable.
